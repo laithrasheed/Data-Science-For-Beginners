@@ -161,6 +161,7 @@ Visit [`notebook.ipynb`](/1-Introduction/01-defining-data-science/notebook.ipynb
 * [Big Date](Big_Data.ipynb)
 * [Machine Learning](Machine_Learning.ipynb)
 * **Task 2**: [Think About Data Science Scenarios](assignment.md)
+* [My Answer](Answer_Assignment.pdf)
 
 ## Credits
 
